@@ -1,4 +1,7 @@
-![img s.o.l.i.d](/img/solid.png)
+<p align="center">
+  <img width="800px" height="368px" src="https://github.com/lucaaslb/algoritmos/blob/master/img/solid.png">
+</p>
+
 # S.O.L.I.D
 ## Princípios da Programação Orientada a Objetos
 
@@ -31,7 +34,7 @@ ___
 
 ___ 
 
-##### Referencias:
+#### Referências:
 + http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod 
 + https://en.wikipedia.org/wiki/SOLID
 + https://www.eduardopires.net.br/2013/04/orientacao-a-objeto-solid/ 
