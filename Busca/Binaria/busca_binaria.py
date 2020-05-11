@@ -12,12 +12,12 @@ def BuscaBin(lista, item:int) -> int:
             cursor_alto = meio - 1    
         else:
             cursor_baixo = meio + 1    
-    return -1
+    return None
 
 ######
 
 def BuscaBinRecursiva():
-    return -1
+    return None
 
 
 dados = [1, 2, 30, 41, 73, 81, 90, 101]
